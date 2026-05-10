@@ -1,4 +1,4 @@
-# cybersecurity-grc-risk-assessment
+# Cybersecurity-GRC-Risk-Assessment
 NIST SP 800-30 risk register for a mid-sized enterprise | 24 threats | risk heat map | residual risk reduced by ~73%
 
 # Cybersecurity GRC Risk Assessment — NIST SP 800-30
